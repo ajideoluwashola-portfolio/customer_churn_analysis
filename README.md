@@ -1,9 +1,5 @@
 # Customer Churn Analysis
 
-Interactive Power BI dashboard analysing why subscription customers leave, covering contract, plan, payment behaviour, engagement and support activity across two pages. Built using Excel/Power Query, MySQL, Power BI, and DAX to support data-driven retention decisions.
-
-# Customer Churn Analysis
-
 ## Project Overview
 
 The Customer Churn Analysis project explores why customers leave a subscription business using an end-to-end workflow: data cleaning in Power Query, analysis in MySQL, and an interactive two-page dashboard in Power BI. The project focuses on churn rate, customer segments, customer behaviour, and retention.
